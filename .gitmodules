@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "longCatEDA"]
 	path = longCatEDA
 	url = https://github.com/stueller/longcateda
-	shallow = true
-	registered = true
